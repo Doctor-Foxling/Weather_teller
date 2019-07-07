@@ -1,0 +1,20 @@
+p {
+  background-color: aquamarine;
+  padding: 5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#weather_info {
+  visibility: hidden;
+}
+
+.logs_root {
+  background-color: azure;
+  padding: 5px;
+  margin-bottom: 4em;
+}
+
+#mapid {
+  height: 380px;
+}
